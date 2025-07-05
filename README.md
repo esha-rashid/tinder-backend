@@ -164,14 +164,6 @@ PORT=8001
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Built with ❤️ by [Your Name] as part of a full-stack development portfolio.
-
 ---
 
 **Note:** This is a learning project demonstrating modern web development practices. Not intended for production use without additional security and scalability considerations.
